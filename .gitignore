@@ -1,0 +1,7 @@
+**/.idea
+Thumbs.db
+venv/
+.vscode
+.dccache
+logs/
+*.log
