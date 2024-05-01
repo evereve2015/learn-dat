@@ -3,5 +3,5 @@ Thumbs.db
 venv/
 .vscode
 .dccache
-logs/
+**/logs/
 *.log
